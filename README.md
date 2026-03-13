@@ -71,8 +71,7 @@ The dataset comprises five CSV files with 500 employee records, representing a r
 ---
 
 ## 4. MySQL Analysis
-### Database Schema
-![Insert your database schema diagram here](schema_diagram.png)  
+### Database Schema  
 *(Replace with your actual schema screenshot)*
 
 ### Key SQL Queries & Results
@@ -217,7 +216,6 @@ All filters apply to the entire dashboard, enabling dynamic exploration.
 - **Color Palette:** Blue, orange, and gray for clarity.
 - **Tooltips:** Enhanced with employee details on hover.
 
-![Insert your final Tableau dashboard screenshot here](dashboard_final.png)
 
 ---
 
