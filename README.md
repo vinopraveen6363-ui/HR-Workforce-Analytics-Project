@@ -242,8 +242,9 @@ This HR Workforce Analytics project successfully demonstrates the power of combi
 
 ---
 
-**Project prepared by:** Praveen  
-**Date:** March 2026  
+**Project prepared by:** Praveen Kumar U 
+**Date:** 13 March 2026  
 **Contact:** vinopraveen6363@gmail.com
-
+**University:** IDM TechPark
+**Course:** Data Science
 ---
