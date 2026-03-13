@@ -244,6 +244,6 @@ This HR Workforce Analytics project successfully demonstrates the power of combi
 
 **Project prepared by:** Praveen  
 **Date:** March 2026  
-**Contact:** [Your Email/LinkedIn Profile]
+**Contact:** vinopraveen6363@gmail.com
 
 ---
